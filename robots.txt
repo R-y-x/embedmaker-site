@@ -1,4 +1,0 @@
-User-agent: Googlebot
-Disallow: /private/
-Allow: /sitemap.xml
-Sitemap: https://embedmaker.xyz/sitemap.xml
